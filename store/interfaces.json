@@ -1,0 +1,8 @@
+{
+  "custom-form-masterdata": {
+    "component": "App",
+    "render": "client",
+    "allowed": "*",
+    "composition": "children"
+  }
+}
